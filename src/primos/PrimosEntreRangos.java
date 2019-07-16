@@ -41,7 +41,7 @@ public class PrimosEntreRangos
 		      	}
 		       if(esPrimo)
 		       {//Si es primo lo imprimo.
-		    	   resultados = resultados + i + " ";
+		    	   resultados = resultados + i + " ,";
 		    	   resultados = resultados + '\n';
 		    	   
 		       }
@@ -52,7 +52,9 @@ public class PrimosEntreRangos
 		 bw = new BufferedWriter(new FileWriter(archivo));
 		 bw.write("ARCHIVO DE RESULTADOS ");		 
 		 bw.newLine();
-		 bw.write("UTPL - INGENIERÍA DE SOFTWARE - 2B");		 
+		 bw.write("UTPL - INGENIERÍA DE SOFTWARE");		 
+		 bw.newLine();
+		 bw.write("SEGUNDO BIMESTRE");		 
 		 bw.newLine();
 		 bw.write("Carlos Danilo Freire Castañeda ");		 
 		 bw.newLine();
