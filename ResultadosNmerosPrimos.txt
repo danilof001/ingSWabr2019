@@ -1,0 +1,23 @@
+ARCHIVO DE RESULTADOS 
+UTPL - INGENIERÍA DE SOFTWARE - 2B
+Carlos Danilo Freire Castañeda 
+
+LISTADO DE NUMEROS PRIMOS ENTRE 5 y 70
+_________________________________________________________________ 
+5 
+7 
+11 
+13 
+17 
+19 
+23 
+29 
+31 
+37 
+41 
+43 
+47 
+53 
+59 
+61 
+67 
